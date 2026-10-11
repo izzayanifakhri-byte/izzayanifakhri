@@ -11,7 +11,7 @@ A computer science student that is interested in Machine Learning and Data.
 C, C++, Java, SQL, Oracle, Microsoft Access
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- WEB-BASED INTELLIGENT SCAM RISK ASSESSMENT SYSTEM USING IMAGE TEXT EXTRACTION (link-to-your-repository): one sentence about it
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/izzayani-farisya-92921125b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
