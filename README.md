@@ -3,7 +3,7 @@
 A computer science student that is interested in Machine Learning and Data.
 
 ## About me
-- Studying: Bachelor of Comouter Science (Hons.), UiTM
+- Studying: Bachelor of Computer Science (Hons.), UiTM
 - Currently learning: Parallel Processing, Data Mining, Algorithm Analysis and Design, Project Formulation
 - My FYP area: Machine Learning, Natural Language Processing, Large Language Models
 
